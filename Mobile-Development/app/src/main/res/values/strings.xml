@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">DisasterReport1</string>
+    <string name="disaster_report">DISASTER REPORT</string>
+    <string name="user_report">User Report</string>
+    <string name="admin_report">Admin Report</string>
+    <string name="informasi">Informasi</string>
+    <string name="perhatian">Mohon isi format dibawah ini dengan sebenar-benarnya untuk keakuratan data yang baik</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="laporan_bencana">Laporan Bencana</string>
+    <string name="nama_bencana_yang_terjadi">Nama Bencana Yang Terjadi</string>
+    <string name="tingkat_1">Tingkat 1</string>
+    <string name="tingkat_2">Tingkat 2</string>
+    <string name="pilih_foto">Pilih Foto</string>
+    <string name="upload">upload</string>
+    <string name="tingkat_3">Tingkat 3</string>
+    <string name="kirim_laporan">Kirim Laporan</string>
+    <string name="gambarang_uumum_keadaan">Gambarang UUmum Keadaan</string>
+    <string name="pilih_tingkat_keparahan">Pilih Tingkat Keparahan</string>
+    <string name="pusat_informasi">Pusat Informasi</string>
+    <string name="nama_laporan">Nama Laporan</string>
+    <string name="keterangan">Keterangan</string>
+    <string name="choose_from_galery">Choose From Galery</string>
+    <string name="take_image">Take Image</string>
+</resources>
